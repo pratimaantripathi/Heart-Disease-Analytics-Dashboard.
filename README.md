@@ -41,18 +41,10 @@ This project analyzes patient health data to identify potential heart disease ri
 
 ---
 
-##  Project Structure
-
-```text
-Heart-Disease-Analytics-Dashboard/
-│
-├── README.md
-├── heart_disease.csv
-├── heart_disease_analysis.sql
-├── Heart_Disease_Dashboard.pbix
-└── dashboard.png
 ## 📷 Dashboard Preview
 
 <p align="center">
   <img src="dashboard.png" alt="Heart Disease Analytics Dashboard" width="900"/>
 </p>
+
+
