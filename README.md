@@ -44,7 +44,7 @@ This project analyzes patient health data to identify potential heart disease ri
 ## 📷 Dashboard Preview
 
 <p align="center">
-  <img src="dashboard.png" alt="Heart Disease Analytics Dashboard" width="900"/>
+  <img src="Dashboard.png.png" alt="Heart Disease Analytics Dashboard" width="900"/>
 </p>
 
 
