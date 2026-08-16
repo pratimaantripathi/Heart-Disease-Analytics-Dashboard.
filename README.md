@@ -1,2 +1,2 @@
 # Heart Disease Prediction Dashboard
-SQL and Power BI dashboard for heart disease analytics
+This project involves analyzing patient health data to identify potential heart disease risks using SQL-based data cleaning and exploration, followed by interactive visualization in Power BI.
