@@ -6,7 +6,7 @@ This project analyzes patient health data to identify potential heart disease ri
 
 ---
 
-## 🛠️ Tools & Technologies Used
+##  Tools & Technologies Used
 
 - **MySQL** – Database creation, data cleaning and transformation
 - **SQL** – Data querying, analysis and feature engineering
@@ -15,7 +15,7 @@ This project analyzes patient health data to identify potential heart disease ri
 
 ---
 
-## 📊 Key Features
+##  Key Features
 
 - Cleaned and validated **916 patient records** using SQL.
 - Handled missing values, invalid entries and outliers.
@@ -32,7 +32,7 @@ This project analyzes patient health data to identify potential heart disease ri
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 
 - Patients above **60 years** showed a higher heart disease rate.
 - Age and chest pain type showed noticeable relationships with heart disease occurrence.
@@ -41,7 +41,7 @@ This project analyzes patient health data to identify potential heart disease ri
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 Heart-Disease-Analytics-Dashboard/
