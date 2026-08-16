@@ -51,3 +51,8 @@ Heart-Disease-Analytics-Dashboard/
 ├── heart_disease_analysis.sql
 ├── Heart_Disease_Dashboard.pbix
 └── dashboard.png
+## 📷 Dashboard Preview
+
+<p align="center">
+  <img src="dashboard.png" alt="Heart Disease Analytics Dashboard" width="900"/>
+</p>
