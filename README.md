@@ -1,2 +1,2 @@
-# Heart-Disease-Analytics-Dashboard.
+# Heart Disease Prediction Dashboard
 SQL and Power BI dashboard for heart disease analytics
